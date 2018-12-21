@@ -1,0 +1,4 @@
+#Fri Dec 21 14:47:09 CET 2018
+base.0=/home/alex/Documents/SIMPLON/public/projetGantt/apliGantt/gantt_project/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

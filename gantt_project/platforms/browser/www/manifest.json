@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Gantt Projet",
+  "short_name": "Gantt Projet",
+  "version": "io.cordova.hellocordova",
+  "description": "une aplliaction cordova et vueJs pour developper un projet Gantt",
+  "author": "Alexandra",
+  "icons": [],
+  "start_url": "index.html"
+}
